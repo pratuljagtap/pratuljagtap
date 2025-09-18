@@ -1,7 +1,5 @@
 # 💫 About Me:
-I’m a Computer Engineering student with a strong interest in game development and artificial intelligence. I build small, playable prototypes to explore gameplay mechanics and AI concepts. The technologies I use include Ruby, Python, JavaScript, HTML5, and Unreal Engine (currently learning).<br><br>Outside of technology, I am passionate about music and enjoy playing both the violin and guitar, which I see as another creative outlet that complements my work in programming.<br><br>Current Goals:<br><br>Complete the core prototype of my personal game, including gameplay mechanics, player controls, and basic enemy AI.<br><br>Port the core gameplay into Unreal Engine while experimenting with both Blueprints and C++.<br><br>Integrate a simple state-driven AI system for enemies and implement replay/save functionality.
-
-
+I’m a Computer Engineering student with a strong interest in game development and artificial intelligence. I build small, playable prototypes to explore gameplay mechanics and AI concepts. The technologies I use include Ruby, Python, JavaScript, HTML5, and Unreal Engine (currently learning).<br><br>Outside of technology, I am passionate about music and enjoy playing both the violin and guitar, which I see as another creative outlet that complements my work in programming.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratul-jagtap-3636a7256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratuljagtap08@gmail.com) 
 
